@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Stripe Clone
+A clone of the original [Stripe](https://stripe.com) home page with animated submenu and sidebar.
+
+![Imgur](https://i.imgur.com/4SJ6Pei.gif)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
