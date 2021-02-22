@@ -1,5 +1,6 @@
 # Stripe Clone
-A clone of the original [Stripe](https://stripe.com) home page with animated submenu and sidebar.
+A clone of the original [Stripe](https://stripe.com) home page with animated submenu and sidebar. 
+useContext hook is used to pass data throughout the app.
 
 ![Imgur](https://i.imgur.com/4SJ6Pei.gif)
 
